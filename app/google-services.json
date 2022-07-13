@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "914724335676",
+    "project_id": "fir-login-27f89",
+    "storage_bucket": "fir-login-27f89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914724335676:android:a1195c3e383f34b5c81339",
+        "android_client_info": {
+          "package_name": "com.monstertechno.loginsignupui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914724335676-747qkg8abjn66d50cquq4pmb7qioqb0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4D4iH_0WIOGGxOezi4-9-7l1LCmjtJNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914724335676-747qkg8abjn66d50cquq4pmb7qioqb0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

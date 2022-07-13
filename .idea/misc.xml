@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Shelani Wijesekera/AndroidStudioProjects/EasyGo/app/src/main/res/layout/activity_dashboard.xml" value="0.25" />
+        <entry key="..\:/Users/Shelani Wijesekera/AndroidStudioProjects/EasyGo/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Shelani Wijesekera/AndroidStudioProjects/EasyGo/app/src/main/res/layout/activity_signin.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Shelani Wijesekera/AndroidStudioProjects/EasyGo/app/src/main/res/layout/activity_signup.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Shelani Wijesekera/Desktop/Sign In/Signin-Signup-UI-design-2019-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1465" />
+        <entry key="..\:/Users/Shelani Wijesekera/Desktop/Sign In/Signin-Signup-UI-design-2019-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1465" />
+        <entry key="..\:/Users/Shelani Wijesekera/Desktop/Sign In/Signin-Signup-UI-design-2019-master/app/src/main/res/drawable/round_arrow_forward_24.xml" value="0.1465" />
+        <entry key="..\:/Users/Shelani Wijesekera/Desktop/Sign In/Signin-Signup-UI-design-2019-master/app/src/main/res/layout/activity_dashboard.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Shelani Wijesekera/Desktop/Sign In/Signin-Signup-UI-design-2019-master/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Shelani Wijesekera/Desktop/Sign In/Signin-Signup-UI-design-2019-master/app/src/main/res/layout/activity_signup.xml" value="0.15806159420289856" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
