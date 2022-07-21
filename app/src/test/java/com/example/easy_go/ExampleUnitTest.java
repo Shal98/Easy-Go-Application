@@ -1,4 +1,4 @@
-package com.monstertechno.easy_go;
+package com.example.easy_go;
 
 import org.junit.Test;
 
